@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# sa credentials file
+test-account-b9a7524644d1.json
